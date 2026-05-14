@@ -1,0 +1,184 @@
+{
+ "Cars": [
+    {
+      "id": "1",
+      "make": "Toyota",
+      "model": "Land Cruiser 300",
+      "year": 2023,
+      "price": 85000,
+      "color": "Pearl White",
+      "image": "https://images.unsplash.com/photo-1559416523-140ddc3d238c?w=400&q=80"
+    },
+    {
+      "id": "2",
+      "make": "BMW",
+      "model": "M4 Competition",
+      "year": 2023,
+      "price": 74900,
+      "color": "Sao Paulo Yellow",
+      "image": "https://images.unsplash.com/photo-1555215695-3004980ad54e?w=400&q=80"
+    },
+    {
+      "id": "3",
+      "make": "Tesla",
+      "model": "Model S Plaid",
+      "year": 2023,
+      "price": 108990,
+      "color": "Midnight Silver",
+      "image": "https://images.unsplash.com/photo-1617788138017-80ad40651399?w=400&q=80"
+    },
+    {
+      "id": "4",
+      "make": "Mercedes-Benz",
+      "model": "G 63 AMG",
+      "year": 2023,
+      "price": 182450,
+      "color": "Obsidian Black",
+      "image": "https://images.unsplash.com/photo-1564518894561-eeca2a7e3c8d?w=400&q=80"
+    },
+    {
+      "id": "5",
+      "make": "Porsche",
+      "model": "911 Turbo S",
+      "year": 2023,
+      "price": 216150,
+      "color": "GT Silver Metallic",
+      "image": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?w=400&q=80"
+    },
+    {
+      "id": "6",
+      "make": "Ford",
+      "model": "F-150 Raptor R",
+      "year": 2023,
+      "price": 109145,
+      "color": "Code Orange",
+      "image": "https://images.unsplash.com/photo-1520031441872-265e4ff70366?w=400&q=80"
+    },
+    {
+      "id": "7",
+      "make": "Lamborghini",
+      "model": "Urus Performante",
+      "year": 2023,
+      "price": 283995,
+      "color": "Giallo Orion",
+      "image": "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=400&q=80"
+    },
+    {
+      "id": "8",
+      "make": "Audi",
+      "model": "RS e-tron GT",
+      "year": 2023,
+      "price": 143395,
+      "color": "Tactical Green",
+      "image": "https://images.unsplash.com/photo-1606152421802-db97b9c7a11b?w=400&q=80"
+    },
+    {
+      "id": "9","make": "Rivian",
+      "model": "R1T Adventure",
+      "year": 2023,
+      "price": 73000,
+      "color": "Forest Green",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&q=80"
+    },
+    {
+      "id": "10",
+      "make": "Ferrari",
+      "model": "296 GTB",
+      "year": 2023,
+      "price": 322986,
+      "color": "Rosso Corsa",
+      "image": "https://images.unsplash.com/photo-1592198084033-aade902d1aae?w=400&q=80"
+    },
+    {
+      "id": "11",
+      "make": "Chevrolet",
+      "model": "Corvette Z06",
+      "year": 2023,
+      "price": 106395,
+      "color": "Amplify Orange",
+      "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=400&q=80"
+    },
+    {
+      "id": "12",
+      "make": "Range Rover",
+      "model": "Sport SVR",
+      "year": 2023,
+      "price": 125950,
+      "color": "Carpathian Grey",
+      "image": "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=400&q=80"
+    },
+    {
+      "id": "13",
+      "make": "Rolls-Royce",
+      "model": "Ghost Black Badge",
+      "year": 2023,
+      "price": 389950,
+      "color": "Black Diamond",
+      "image": "https://images.unsplash.com/photo-1563720223185-11003d516935?w=400&q=80"
+    },
+    {
+      "id": "14",
+      "make": "Jeep",
+      "model": "Wrangler Rubicon 392",
+      "year": 2023,
+      "price": 79990,
+      "color": "Tuscadero Pink",
+      "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=400&q=80"
+    },
+    {
+      "id": "15",
+      "make": "Maserati",
+      "model": "MC20 Cielo",
+      "year": 2023,
+      "price": 257300,
+      "color": "Azzurro Astro",
+      "image": "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=400&q=80"
+    },
+    {
+      "id": "16",
+      "make": "Honda",
+      "model": "Civic Type R",
+      "year": 2023,
+      "price": 44990,
+      "color": "Boost Blue Pearl",
+      "image": "https://images.unsplash.com/photo-1583267702057-20cebe64c3f3?w=400&q=80"
+    },
+    {
+      "id": "17",
+      "make": "Bentley",
+      "model": "Bentayga Speed",
+      "year": 2023,
+      "price": 279900,
+      "color": "Beluga",
+      "image": "https://images.unsplash.com/photo-1562911791-c7a97b729ec5?w=400&q=80"
+    },
+    {
+      "id": "18",
+      "make": "Hyundai",
+      "model": "IONIQ 6 AWD",
+      "year": 2023,
+      "price": 52615,
+      "color": "Gravity Gold Matte",
+      "image": "https://images.unsplash.com/photo-1601362840469-51e4d8d58785?w=400&q=80"
+    },
+    {
+      "id": "19",
+      "make": "Nissan",
+      "model": "GT-R NISMO",
+      "year": 2023,
+      "price": 214090,
+      "color": "Stealth Grey",
+      "image": "https://images.unsplash.com/photo-1566473965997-3de9c817e938?w=400&q=80"
+    },
+    {
+      "id": "20",
+      "make": "Volvo",
+      "model": "XC90 Recharge",
+      "year": 2023,
+      "price": 67295,
+      "color": "Denim Blue",
+      "image": "https://images.unsplash.com/photo-1609521263047-f8f205293f24?w=400&q=80"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
