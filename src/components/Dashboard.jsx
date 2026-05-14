@@ -5,17 +5,19 @@ import Navbar from '../components/Navbar'
 
 const Dashboard = () => {
   return (
-    <div className='flex'>
-        <div className='bg-black w-[200px] h-screen '>
-            <Sidebar/>
-        </div>
+    <div>
+      <div className='w-[200px] min-h-screen bg-black text-white flex'>
+        <Sidebar/>
 
-        <div className='bg-red-600'>
-            <Navbar/>
-            <Outlet/>
+        <div className='w-full h-[100px]'>
+          <Navbar/>
+
+        <main>
+          <Outlet/>
+        </main>
+          </div>
         </div>
     </div>
   )
 }
-
 export default Dashboard
