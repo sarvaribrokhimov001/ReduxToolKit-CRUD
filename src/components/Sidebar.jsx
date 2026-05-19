@@ -3,12 +3,10 @@ import { NavLink } from 'react-router-dom'
 
 const Sidebar = () => {
   return (
-    <div>
-        <ul>
-            <li> <NavLink to="/"> Dashboard </NavLink> </li>
-            <li> <NavLink to="/cars"> Cars </NavLink> </li>
-        </ul>
-    </div>
+    <ul className='space-y-4'>
+      <li> <NavLink to="/"> Dashboard </NavLink> </li>
+      <li> <NavLink to="/cars"> Cars </NavLink> </li>
+    </ul>
   )
 }
 export default Sidebar

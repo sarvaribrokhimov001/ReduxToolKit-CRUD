@@ -10,12 +10,8 @@ const Table = () => {
   dispatch(fetchCars());
  } , []);
 
- console.log(data);
-
   return (
-    <div>
-        
-    </div>
+    <div></div>
   )
 }
 export default Table

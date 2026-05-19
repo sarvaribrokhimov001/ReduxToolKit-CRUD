@@ -5,12 +5,11 @@ import Cars from '../components/Cars'
 
 const Router = () => {
   return (
-    <div>
-        <Routes>
-            <Route path='/' element={<Dashboard />} />
-            <Route path='/cars' element={<Cars />} /> 
-        </Routes>
-    </div>
+    <Routes>
+      <Route path='/' element={<Dashboard />}>
+        <Route path='cars' element={<Cars />} />
+      </Route>
+    </Routes>
   )
 }
 export default Router
