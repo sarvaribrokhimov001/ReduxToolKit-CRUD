@@ -6,12 +6,12 @@ import Navbar from '../components/Navbar'
 const Dashboard = () => {
   return (
     <div className='flex min-h-screen'>
-      <div className='w-[250px] bg-black text-white p-5'>
+      <div className='w-[250px] bg-black p-5'>
         <Sidebar />
       </div>
 
-      <div className='flex-1 bg-gray-100'>
-        <div className='h-[70px] bg-white shadow flex items-center px-5'>
+      <div className='flex-1'>
+        <div className='h-[90px] bg-neutral-900 flex items-center px-5'>
           <Navbar />
         </div>
 
